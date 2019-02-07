@@ -1,9 +1,0 @@
-C:\Cloud\AspaII\Source\Aspa II\AspaII.Infrastructure\bin\Debug\netcoreapp2.2\AspaII.Infrastructure.deps.json
-C:\Cloud\AspaII\Source\Aspa II\AspaII.Infrastructure\bin\Debug\netcoreapp2.2\AspaII.Infrastructure.dll
-C:\Cloud\AspaII\Source\Aspa II\AspaII.Infrastructure\bin\Debug\netcoreapp2.2\AspaII.Infrastructure.pdb
-C:\Cloud\AspaII\Source\Aspa II\AspaII.Infrastructure\obj\Debug\netcoreapp2.2\AspaII.Infrastructure.csproj.CoreCompileInputs.cache
-C:\Cloud\AspaII\Source\Aspa II\AspaII.Infrastructure\obj\Debug\netcoreapp2.2\AspaII.Infrastructure.AssemblyInfoInputs.cache
-C:\Cloud\AspaII\Source\Aspa II\AspaII.Infrastructure\obj\Debug\netcoreapp2.2\AspaII.Infrastructure.AssemblyInfo.cs
-C:\Cloud\AspaII\Source\Aspa II\AspaII.Infrastructure\obj\Debug\netcoreapp2.2\AspaII.Infrastructure.dll
-C:\Cloud\AspaII\Source\Aspa II\AspaII.Infrastructure\obj\Debug\netcoreapp2.2\AspaII.Infrastructure.pdb
-C:\Cloud\AspaII\Source\Aspa II\AspaII.Infrastructure\obj\Debug\netcoreapp2.2\AspaII.Infrastructure.csprojAssemblyReference.cache
