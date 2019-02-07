@@ -1,0 +1,16 @@
+C:\Cloud\AspaII\Source\Aspa II\AspaII.Services\bin\Debug\netcoreapp2.2\AspaII.Services.deps.json
+C:\Cloud\AspaII\Source\Aspa II\AspaII.Services\bin\Debug\netcoreapp2.2\AspaII.Services.dll
+C:\Cloud\AspaII\Source\Aspa II\AspaII.Services\obj\Debug\netcoreapp2.2\AspaII.Services.csprojAssemblyReference.cache
+C:\Cloud\AspaII\Source\Aspa II\AspaII.Services\obj\Debug\netcoreapp2.2\AspaII.Services.csproj.CoreCompileInputs.cache
+C:\Cloud\AspaII\Source\Aspa II\AspaII.Services\obj\Debug\netcoreapp2.2\AspaII.Services.AssemblyInfoInputs.cache
+C:\Cloud\AspaII\Source\Aspa II\AspaII.Services\obj\Debug\netcoreapp2.2\AspaII.Services.AssemblyInfo.cs
+C:\Cloud\AspaII\Source\Aspa II\AspaII.Services\bin\Debug\netcoreapp2.2\AspaII.Services.pdb
+C:\Cloud\AspaII\Source\Aspa II\AspaII.Services\bin\Debug\netcoreapp2.2\AspaII.Domain.dll
+C:\Cloud\AspaII\Source\Aspa II\AspaII.Services\bin\Debug\netcoreapp2.2\AspaII.Infrastructure.dll
+C:\Cloud\AspaII\Source\Aspa II\AspaII.Services\bin\Debug\netcoreapp2.2\AspaII.Domain.pdb
+C:\Cloud\AspaII\Source\Aspa II\AspaII.Services\bin\Debug\netcoreapp2.2\AspaII.Infrastructure.pdb
+C:\Cloud\AspaII\Source\Aspa II\AspaII.Services\obj\Debug\netcoreapp2.2\AspaII.Services.csproj.CopyComplete
+C:\Cloud\AspaII\Source\Aspa II\AspaII.Services\obj\Debug\netcoreapp2.2\AspaII.Services.dll
+C:\Cloud\AspaII\Source\Aspa II\AspaII.Services\obj\Debug\netcoreapp2.2\AspaII.Services.pdb
+C:\Cloud\AspaII\Source\Aspa II\AspaII.Services\bin\Debug\netcoreapp2.2\AspaII.DataLayerR.dll
+C:\Cloud\AspaII\Source\Aspa II\AspaII.Services\bin\Debug\netcoreapp2.2\AspaII.DataLayerR.pdb

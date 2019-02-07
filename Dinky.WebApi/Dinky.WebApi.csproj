@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup Label="Globals">
+    <SccProjectName>SAK</SccProjectName>
+    <SccProvider>SAK</SccProvider>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccLocalPath>SAK</SccLocalPath>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.All" Version="2.2.1" />
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" PrivateAssets="All" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.2.1" />
+    <PackageReference Include="StructureMap.AspNetCore" Version="1.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+  <ProjectReference Include="..\Dinky.Domain\Dinky.Domain.csproj" />
+    <ProjectReference Include="..\Dinky.DataLayer\Dinky.DataLayer.csproj" />
+    <ProjectReference Include="..\Dinky.Infrastructure\Dinky.Infrastructure.csproj" />
+    <ProjectReference Include="..\Dinky.Services\Dinky.Services.csproj" />
+  </ItemGroup>
+
+</Project>

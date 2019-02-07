@@ -1,0 +1,16 @@
+C:\github\DinkyStarter-WebApiDotNetCore-md\Dinky.DataLayer\bin\Debug\netcoreapp2.2\Dinky.DataLayer.deps.json
+C:\github\DinkyStarter-WebApiDotNetCore-md\Dinky.DataLayer\bin\Debug\netcoreapp2.2\Dinky.DataLayer.runtimeconfig.json
+C:\github\DinkyStarter-WebApiDotNetCore-md\Dinky.DataLayer\bin\Debug\netcoreapp2.2\Dinky.DataLayer.runtimeconfig.dev.json
+C:\github\DinkyStarter-WebApiDotNetCore-md\Dinky.DataLayer\bin\Debug\netcoreapp2.2\Dinky.DataLayer.dll
+C:\github\DinkyStarter-WebApiDotNetCore-md\Dinky.DataLayer\bin\Debug\netcoreapp2.2\Dinky.DataLayer.pdb
+C:\github\DinkyStarter-WebApiDotNetCore-md\Dinky.DataLayer\bin\Debug\netcoreapp2.2\Dinky.Domain.dll
+C:\github\DinkyStarter-WebApiDotNetCore-md\Dinky.DataLayer\bin\Debug\netcoreapp2.2\Dinky.Infrastructure.dll
+C:\github\DinkyStarter-WebApiDotNetCore-md\Dinky.DataLayer\bin\Debug\netcoreapp2.2\Dinky.Domain.pdb
+C:\github\DinkyStarter-WebApiDotNetCore-md\Dinky.DataLayer\bin\Debug\netcoreapp2.2\Dinky.Infrastructure.pdb
+C:\github\DinkyStarter-WebApiDotNetCore-md\Dinky.DataLayer\obj\Debug\netcoreapp2.2\Dinky.DataLayer.csprojAssemblyReference.cache
+C:\github\DinkyStarter-WebApiDotNetCore-md\Dinky.DataLayer\obj\Debug\netcoreapp2.2\Dinky.DataLayer.csproj.CoreCompileInputs.cache
+C:\github\DinkyStarter-WebApiDotNetCore-md\Dinky.DataLayer\obj\Debug\netcoreapp2.2\Dinky.DataLayer.AssemblyInfoInputs.cache
+C:\github\DinkyStarter-WebApiDotNetCore-md\Dinky.DataLayer\obj\Debug\netcoreapp2.2\Dinky.DataLayer.AssemblyInfo.cs
+C:\github\DinkyStarter-WebApiDotNetCore-md\Dinky.DataLayer\obj\Debug\netcoreapp2.2\Dinky.DataLayer.csproj.CopyComplete
+C:\github\DinkyStarter-WebApiDotNetCore-md\Dinky.DataLayer\obj\Debug\netcoreapp2.2\Dinky.DataLayer.dll
+C:\github\DinkyStarter-WebApiDotNetCore-md\Dinky.DataLayer\obj\Debug\netcoreapp2.2\Dinky.DataLayer.pdb

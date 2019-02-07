@@ -1,0 +1,9 @@
+C:\github\DinkyStarter-WebApiDotNetCore-md\Dinky.Infrastructure\bin\Debug\netcoreapp2.2\Dinky.Infrastructure.deps.json
+C:\github\DinkyStarter-WebApiDotNetCore-md\Dinky.Infrastructure\bin\Debug\netcoreapp2.2\Dinky.Infrastructure.dll
+C:\github\DinkyStarter-WebApiDotNetCore-md\Dinky.Infrastructure\bin\Debug\netcoreapp2.2\Dinky.Infrastructure.pdb
+C:\github\DinkyStarter-WebApiDotNetCore-md\Dinky.Infrastructure\obj\Debug\netcoreapp2.2\Dinky.Infrastructure.csprojAssemblyReference.cache
+C:\github\DinkyStarter-WebApiDotNetCore-md\Dinky.Infrastructure\obj\Debug\netcoreapp2.2\Dinky.Infrastructure.csproj.CoreCompileInputs.cache
+C:\github\DinkyStarter-WebApiDotNetCore-md\Dinky.Infrastructure\obj\Debug\netcoreapp2.2\Dinky.Infrastructure.AssemblyInfoInputs.cache
+C:\github\DinkyStarter-WebApiDotNetCore-md\Dinky.Infrastructure\obj\Debug\netcoreapp2.2\Dinky.Infrastructure.AssemblyInfo.cs
+C:\github\DinkyStarter-WebApiDotNetCore-md\Dinky.Infrastructure\obj\Debug\netcoreapp2.2\Dinky.Infrastructure.dll
+C:\github\DinkyStarter-WebApiDotNetCore-md\Dinky.Infrastructure\obj\Debug\netcoreapp2.2\Dinky.Infrastructure.pdb
